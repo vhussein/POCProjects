@@ -1,4 +1,4 @@
-package org.azlan.helloWorld;
+package org.azlan.lombok.helloWorld;
 
 /**
  * Created by MohdAzlan.Hussein on 4/27/2017.
